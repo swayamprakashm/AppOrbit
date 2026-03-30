@@ -71,4 +71,3 @@ To function fully as a digital guardian, AppOrbit requires the following Android
 * Swayam Prakash Macharla
 * Vasala Akshaya
 * Devaruppala Sairam
-```
