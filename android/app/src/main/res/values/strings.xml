@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">AppOrbit requires Accessibility permissions to detect when restricted apps are opened so it can instantly block them and help you stay focused.</string>
+</resources>

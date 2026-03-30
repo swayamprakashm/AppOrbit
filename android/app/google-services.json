@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589855453561",
+    "project_id": "apporbit-6742a",
+    "storage_bucket": "apporbit-6742a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589855453561:android:99409473e02805ed03bfa8",
+        "android_client_info": {
+          "package_name": "com.example.apporbit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHgI_gg4HTfJed_Y-McAhVwhv_Nc9bsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
