@@ -25,7 +25,7 @@ AppOrbit goes beyond simple timers. It utilizes deep native Android integrations
 
 | Application | All Activity | Lockdown Screen |
 |-----------|--------------|-----------------|
-| <img src="https://github.com/user-attachments/assets/aab995ce-a783-4da6-8d50-36d6e7d66b3a" width="200"> | <img src="https://github.com/user-attachments/assets/b921096e-f35e-46df-a611-28aebec1046f" width="200"> | <img src="https://github.com/user-attachments/assets/f1e66d69-ba32-42d3-b7da-c4cda943d60c" width="200"> |
+| <img src="https://github.com/user-attachments/assets/f1e66d69-ba32-42d3-b7da-c4cda943d60c" width="200"> | <img src="https://github.com/user-attachments/assets/b921096e-f35e-46df-a611-28aebec1046f" width="200"> | <img src="https://github.com/user-attachments/assets/aab995ce-a783-4da6-8d50-36d6e7d66b3a" width="200"> |
 
 
 ## 🚀 Getting Started
