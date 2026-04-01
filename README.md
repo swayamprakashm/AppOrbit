@@ -17,7 +17,7 @@ AppOrbit goes beyond simple timers. It utilizes deep native Android integrations
 ## 📲 Download Now
 <p align="center">
   <a href="https://apporbitdownload.netlify.app/">
-    <img src="https://img.shields.io/badge/Download-AppOrbit-blue?style=for-the-badge&logo=android" />
+    <img src="https://img.shields.io/badge/🚀%20Download%20Now-AppOrbit-ff69b4?style=for-the-badge" />
   </a>
 </p>
 
