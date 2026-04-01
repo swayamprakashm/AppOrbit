@@ -14,10 +14,10 @@ AppOrbit goes beyond simple timers. It utilizes deep native Android integrations
 * **Interactive Analytics:** Beautiful, interactive Weekly and Monthly screen-time charts built with `fl_chart`.
 * **Offline-First & Cloud Sync:** Runs perfectly offline using `shared_preferences`. Optional cloud backup available via Firebase Auth (Google Sign-in) and Cloud Firestore.
 
-## 📲 Download Now
+## 📲 Get AppOrbit Now
 <p align="center">
   <a href="https://apporbitdownload.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀%20Download%20Now-AppOrbit-ff69b4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Download-AppOrbit-blue?style=for-the-badge&logo=android" />
   </a>
 </p>
 
