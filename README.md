@@ -1,5 +1,5 @@
 
-# AppOrbit 🚀
+### AppOrbit 🚀
 
 A strict digital wellbeing and app-blocking guardian built to help you reclaim your focus, break away from endless scrolling, and build healthier digital habits. 
 
@@ -13,6 +13,14 @@ AppOrbit goes beyond simple timers. It utilizes deep native Android integrations
 * **Uninstall Protection:** Utilizes Android `DeviceAdminReceiver` privileges to prevent users from simply deleting the app to bypass their restrictions.
 * **Interactive Analytics:** Beautiful, interactive Weekly and Monthly screen-time charts built with `fl_chart`.
 * **Offline-First & Cloud Sync:** Runs perfectly offline using `shared_preferences`. Optional cloud backup available via Firebase Auth (Google Sign-in) and Cloud Firestore.
+
+## 📲 Download Now
+<p align="center">
+  <a href="https://apporbitdownload.netlify.app/">
+    <kbd>⬇ Download AppOrbit</kbd>
+  </a>
+</p>
+
 
 ## 🛠️ Tech Stack
 
